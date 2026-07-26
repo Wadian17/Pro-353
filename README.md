@@ -6,3 +6,4 @@ writing Project Artifacts or direct link
 Starting task 2
 Attempting to write a justification
 Start drawing the prototype or Screen drawing
+Adjusting the Gantt chart
