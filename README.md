@@ -5,3 +5,4 @@ writing Group Members' Input and Participation
 writing Project Artifacts or direct link
 Starting task 2
 Attempting to write a justification
+Start drawing the prototype
