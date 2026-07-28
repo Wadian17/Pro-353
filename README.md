@@ -7,3 +7,6 @@ Starting task 2
 Attempting to write a justification
 Start drawing the prototype or Screen drawing
 Adjusting the Gantt chart
+Completed to phase 1
+Delivered to phaes 1
+Work is underway on the remaining part of the project
