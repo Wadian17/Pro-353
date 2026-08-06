@@ -10,3 +10,4 @@ Adjusting the Gantt chart
 Completed to phase 1
 Delivered to phaes 1
 Work is underway on the remaining part of the project
+Currently writing Reflection
